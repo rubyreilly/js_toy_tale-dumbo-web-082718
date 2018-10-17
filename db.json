@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 6
     },
     {
       "id": 2,
@@ -47,6 +47,54 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "New Toy",
+      "image": "http://www.grand-illusions.com/Files/123268/Img/11/main-400-300.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Ruby",
+      "image": "http://languageinstituteoftheamericas.com/wp-content/uploads/2016/11/ruby.png",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Ruby",
+      "image": "http://languageinstituteoftheamericas.com/wp-content/uploads/2016/11/ruby.png",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "New Toy",
+      "image": "http://www.grand-illusions.com/Files/123268/Img/11/main-400-300.jpg",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Ruby",
+      "image": "http://languageinstituteoftheamericas.com/wp-content/uploads/2016/11/ruby.png",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "Ruby",
+      "image": "http://www.grand-illusions.com/Files/123268/Img/11/main-400-300.jpg",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "Ruby",
+      "image": "http://www.grand-illusions.com/Files/123268/Img/11/main-400-300.jpg",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "name": "Ruby",
+      "image": "http://www.grand-illusions.com/Files/123268/Img/11/main-400-300.jpg",
+      "likes": 0,
+      "id": 16
     }
   ]
 }
